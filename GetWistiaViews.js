@@ -1,5 +1,3 @@
-// TEST CHANGE
-
 // Please consult the README for more information about this script
 
 function GetWistiaViews() {
