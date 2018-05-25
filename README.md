@@ -46,7 +46,7 @@ Then another dialog box will ask for the last date, and I would enter 2018-03-15
 Once the last date is entered, the appropriate data from Wistia will be appended to the bottom of the sheet.
 Upon completion, another dialog box will appear confirming that the script has finished.
 
-![Imgur](https://imgur.com/d2zyjzt.png "Yes, I know that the dates are wrong here")
+![Imgur](https://imgur.com/9wjsAy7.png)
 
 ### Customization
 First, and most importantly, make sure to replace `YOUR_WISTIA_API_KEY_HERE` with your Wistia API key, or else the script won't work at all.
